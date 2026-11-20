@@ -1,0 +1,17 @@
+{
+  "seed": 42,
+  "test_file": "test_features_original_pipeline.npy",
+  "block_dims": {
+    "hog": 256,
+    "hsv": 64,
+    "lbp": 10
+  },
+  "global_dim": 50,
+  "consistency_issues": [],
+  "global_pca_variance_%": 70.11,
+  "kmeans_selected_K": 12,
+  "gmm_selected_K": 60,
+  "hdbscan_train_clusters": 32,
+  "best_model_by_test_NMI": "UMAP_KMeans_K19",
+  "runtime_minutes": 2.89
+}

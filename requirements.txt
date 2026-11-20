@@ -9,3 +9,4 @@ jupyter
 ipykernel
 torch
 torchvision
+umap-learn
